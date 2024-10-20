@@ -1,0 +1,62 @@
+
+
+h1{ font-family: arial; color: blue; text-align: center; font-weight:bolder;
+    
+    }
+
+
+
+
+body {table, th, td, td {
+
+    
+    
+    border-collapse: collapse;
+    border: solid black;
+    text-align: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family:Arial
+    
+}    
+
+
+    
+}
+
+
+
+
+    table { margin:auto }
+    
+    .caption {color: rgb(255, 0, 212);
+        font-size: 25px;
+
+    }
+        th { background-color: greenyellow;}
+
+        .DAM1PED { background-color: #0affda;
+        } 
+        .DAM1SI { background-color: #00a62fc4; }
+
+        .IPOI { background-color: #0babd7; }
+
+        tr { text-align: center;}
+        
+        .DAM1SGE { background-color: #ffd505c4; }
+
+        .DAM1BD { background-color: #ff7f07c4; }
+
+        .AN { background-color: #1af961a7;}
+        
+        .LMSGI { background-color: #650079a7; }
+
+    
+    th {font-size: 12px
+       }
+  
+    
+    
+
+    
+    
