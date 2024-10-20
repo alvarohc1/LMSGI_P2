@@ -7,33 +7,47 @@ h1{ font-family: arial; color: blue; text-align: center; font-weight:bolder;
 
 
 
-body {table, th, td, td {
+table,th,td{
+    text-align: center;
+    border: 2px solid black;
+    font-family: Verdana;
+    }    
 
-    
-    
-    border-collapse: collapse;
-    border: solid black;
-    text-align: 1px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family:Arial
-    
-}    
-
-
-    
+table { margin:auto;
+        border-collapse: collapse;
+        width: 100%;
 }
 
-
-
-
-    table { margin:auto }
     
-    .caption {color: rgb(255, 0, 212);
+    .caption {
+        color: rgb(255, 0, 212);
         font-size: 25px;
 
     }
-        th { background-color: greenyellow;}
+        th { padding: 30;
+            font-size: 25px;
+            background-color: greenyellow;}
+        
+
+        .h89 { font-size: 20px; 
+               padding: 10px;
+               width: 180px;}
+
+        .h910 { font-size: 20px; 
+                padding: 10px;
+                width: 180px;}
+
+        .h1011 { font-size: 20px; 
+                 padding: 10px;
+                 width: 180px;}
+
+        .h113123 { font-size: 20px; 
+                   padding: 10px;
+                   width: 180px;}
+
+        .h123133 { font-size: 20px; 
+                   padding: 10px;
+                   width: 180px;}
 
         .DAM1PED { background-color: #0affda;
         } 
@@ -51,9 +65,9 @@ body {table, th, td, td {
         
         .LMSGI { background-color: #650079a7; }
 
+        .DESCANS { font-size: 20px;
+                    padding: 15px; }
     
-    th {font-size: 12px
-       }
   
     
     
